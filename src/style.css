@@ -1,0 +1,10 @@
+body{
+    background-color:aquamarine;
+}
+.root{
+    background-color:orange;
+}
+.inner{
+    padding: 2%;
+    
+}
